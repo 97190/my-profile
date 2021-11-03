@@ -1,0 +1,32 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+a {
+color: #40312C;;
+text-decoration: #40312C;
+}
+li {
+color:#40312C;
+
+}
+h1 {
+font-family: 'Open Sans', sans-serif;
+color: #BF3636;
+font-size-adjust: initial;
+line-height: normal;
+font-weight: 300;
+}
+body {
+background-color: #D9D2CC;
+font-family: 'Open Sans', sans-serif;
+font-size-adjust: initial;
+line-height: initial;
+}
+.img {
+ width: 150px;
+ height: 150px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
